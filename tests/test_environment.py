@@ -1,14 +1,12 @@
 """Tests for the bug fix and new features in environment.py.
 
-Drop this file next to your existing test_environment.py, or paste the tests
-into it. Adjust the import below to match your package layout, for example:
-    from src.environment import Environment
+
 """
 
 import numpy as np
 import pytest
 
-from environment import Environment, _bresenham_line  # <-- adjust import path
+from uav_ga.environment import Environment, _bresenham_line
 
 
 def make_env(width=20, height=20, max_range=30.0, depot=(0, 0), priority=None):

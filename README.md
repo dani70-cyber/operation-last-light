@@ -2,7 +2,7 @@
 
 A Genetic Algorithm "Strategy Engine" that plans routes for a fleet of UAVs over a hazard grid. Zombie-outbreak theme: hordes are hazards, survivor camps are priority cells, the drones are the fleet, and the **AI Commander** (the GA) tries to find the best plan. A **Rookie Survivor** (random search with the same budget) is the baseline.
 
-AI Assignment 2, BSCS 5, Bahria University Lahore. Solo project.
+AI Assignment 2, BSCS 5, Bahria University Lahore. Solo project/Assignment CCP.
 
 ![Dashboard replay, generation 150](docs/dashboard_gen150.png)
 
@@ -52,7 +52,7 @@ operation-last-light/
 ## Installation
 
 ```
-git clone <your-repo-url>
+git clone <https://github.com/dani70-cyber/operation-last-light.git>
 cd operation-last-light
 pip install -r requirements.txt
 ```
