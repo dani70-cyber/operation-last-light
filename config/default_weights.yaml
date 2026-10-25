@@ -1,0 +1,9 @@
+# Weighted-sum fitness (normalize each term to [0, 1] before combining)
+coverage: 0.30
+detection: 0.25
+energy: 0.15
+flight_time: 0.10
+hazard_exposure: 0.20
+
+penalty_no_fly: 1.0
+penalty_range_overshoot: 0.5
