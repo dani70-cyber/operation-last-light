@@ -52,7 +52,7 @@ operation-last-light/
 ## Installation
 
 ```
-git clone <https://github.com/dani70-cyber/operation-last-light.git>
+git clone https://github.com/dani70-cyber/operation-last-light.git
 cd operation-last-light
 pip install -r requirements.txt
 ```
