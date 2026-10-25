@@ -45,8 +45,12 @@ operation-last-light/
     run_sensitivity.py hyperparameter sweep
   tests/
   main.py              run the GA
+    main.py              run the GA
   make_figures.py      GA vs random + figures
+  export_dashboard.py  builds results/dashboard.html (replay)
+  docs/                README screenshots
   results/             plots, CSVs, dashboard.html
+  
 ```
 
 ## Installation
